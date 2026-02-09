@@ -32,3 +32,13 @@
 2026-02-08:
   hry-gh:
   - server: added the ability to get admins/admin_ranks from an api endpoint
+2026-02-09:
+  DangerRevolution:
+  - maptweak: 'Added three new RNG variations to New Varadero: a hold-out in Engineering
+      and a variation of the Medbay alongside New Varadero Restaurant that might replace
+      the Library'
+  Ediblebomb:
+  - qol: Added a preference to opt-out of being spectated by the CMTV camera ghost.
+  ori-disillusion-mirnov:
+  - rscdel: removes playtime defines past tier 4, and removes the hybrisa CL survivor
+      ranks past 175 hours of playtime
