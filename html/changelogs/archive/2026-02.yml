@@ -42,3 +42,13 @@
   ori-disillusion-mirnov:
   - rscdel: removes playtime defines past tier 4, and removes the hybrisa CL survivor
       ranks past 175 hours of playtime
+2026-02-11:
+  BOBAMAx:
+  - bugfix: rescuing survivors now properly awards intel points instead of only pretending
+      to
+  Puckaboo2:
+  - bugfix: Anchorpoint Station marines have their minimap faction icons.
+  - bugfix: Missing minimap icons, minimap backgrounds, and role comm titles have
+      been applied to all CMB personnel.
+  - bugfix: CMB Riot Control synths should have the correct minimap icons vs the CMB
+      Investigation synths.
