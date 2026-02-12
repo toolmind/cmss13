@@ -1,6 +1,0 @@
-author: "Puckaboo2"
-delete-after: True
-changes:
-  - bugfix: "You can now apply Severe Burns or Eschar on a mob through the limb status editor."
-  - spellcheck: "Adds a space between your limb status and (Severe Burns) when you check yourself."
-  - bugfix: "Nonbinaries being 'himself' to other people while checking themselves for injuries should no longer occur."

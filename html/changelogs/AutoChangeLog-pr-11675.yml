@@ -1,5 +1,0 @@
-author: "ori-disillusion-mirnov"
-delete-after: True
-changes:
-  - bugfix: "large xenos can no longer be buckled to office chairs"
-  - code_imp: "remove redundant line for the rollerbed"
