@@ -84,3 +84,8 @@
   neeshacark:
   - qol: the revolver rig can hold loose rounds now
   - spellcheck: fixed a typo in the name of the revolver holster rig
+2026-02-16:
+  AmazingDragon353:
+  - balance: Larva can evolve into any t1 when queen is dead
+  timothymtorres:
+  - bugfix: Fix hydrotrays ignoring bullet damage
