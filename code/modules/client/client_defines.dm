@@ -133,3 +133,4 @@
 
 	/// If this client has any windows scaling applied
 	var/window_scaling
+
